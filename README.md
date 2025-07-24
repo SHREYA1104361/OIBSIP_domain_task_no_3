@@ -37,7 +37,7 @@
   - Decision Tree Regressor
   - Random Forest Regressor
   - Support Vector Regressor (SVR)
-  - XGBoost Regressor
+ 
 
 ### 5.  Model Evaluation :
 - Evaluation metrics used:
@@ -58,7 +58,6 @@
   - `pandas`, `numpy` – for data handling
   - `matplotlib`, `seaborn` – for visualization
   - `scikit-learn` – for preprocessing and modeling
-  - `xgboost` – for advanced regression
 
 ##  Dataset Description :
 
