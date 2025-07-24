@@ -46,12 +46,12 @@
   - Mean Squared Error (MSE)
   - Root Mean Squared Error (RMSE)
 
-### 6. 📈 Visualization :
+### 6. Visualization :
 - Feature importance chart (bar plot)
 - Residual plots
 - Actual vs Predicted plots
 
-## 🛠️ Tools and Technologies Used :
+##  Tools and Technologies Used :
 - **Language**: Python
 - **Platform**: Jupyter Notebook / Google Colab
 - **Libraries**:
